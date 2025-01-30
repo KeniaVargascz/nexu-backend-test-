@@ -3,12 +3,183 @@
         "name": "Acura"
     },
     {
-        "name": "Toyota"
+        "name": "Audi"
+    },
+    {
+        "name": "Bentley"
+    },
+    {
+        "name": "BMW"
+    },
+    {
+        "name": "Buick"
+    },
+    {
+        "name": "Cadillac"
+    },
+    {
+        "name": "Chevrolet"
+    },
+    {
+        "name": "Chrysler"
+    },
+    {
+        "name": "Dodge"
+    },
+    {
+        "name": "FAW"
+    },
+    {
+        "name": "Ferrari"
+    },
+    {
+        "name": "Fiat"
+    },
+    {
+        "name": "Ford"
+    },
+    {
+        "name": "GMC"
+    },
+    {
+        "name": "Honda"
+    },
+    {
+        "name": "Infiniti"
+    },
+    {
+        "name": "Jaguar"
+    },
+    {
+        "name": "Jeep"
+    },
+    {
+        "name": "Lamborghini"
+    },
+    {
+        "name": "Land Rover"
+    },
+    {
+        "name": "Lincoln"
+    },
+    {
+        "name": "Maserati"
+    },
+    {
+        "name": "Mastretta"
+    },
+    {
+        "name": "Mazda"
+    },
+    {
+        "name": "Mercedes Benz"
+    },
+    {
+        "name": "Mitsubishi"
     },
     {
         "name": "Nissan"
     },
     {
-        "name": "Toyota1"
+        "name": "Peugeot"
+    },
+    {
+        "name": "Porsche"
+    },
+    {
+        "name": "RAM"
+    },
+    {
+        "name": "Renault"
+    },
+    {
+        "name": "Rolls Royce"
+    },
+    {
+        "name": "Seat"
+    },
+    {
+        "name": "Smart"
+    },
+    {
+        "name": "Subaru"
+    },
+    {
+        "name": "Suzuki"
+    },
+    {
+        "name": "Toyota"
+    },
+    {
+        "name": "Volkswagen"
+    },
+    {
+        "name": "Volvo"
+    },
+    {
+        "name": "Alfa Romeo"
+    },
+    {
+        "name": "Hummer"
+    },
+    {
+        "name": "Hyundai"
+    },
+    {
+        "name": "Isuzu"
+    },
+    {
+        "name": "McLaren"
+    },
+    {
+        "name": "Mercury"
+    },
+    {
+        "name": "Cbo"
+    },
+    {
+        "name": "Pontiac"
+    },
+    {
+        "name": "Saab"
+    },
+    {
+        "name": "Aston Martin"
+    },
+    {
+        "name": "Lotus"
+    },
+    {
+        "name": "MG"
+    },
+    {
+        "name": "Tesla"
+    },
+    {
+        "name": "Abarth"
+    },
+    {
+        "name": "KIA"
+    },
+    {
+        "name": "Mini Cooper"
+    },
+    {
+        "name": "Baic"
+    },
+    {
+        "name": "JAC"
+    },
+    {
+        "name": "HINO"
+    },
+    {
+        "name": "International"
+    },
+    {
+        "name": "UAZ"
+    },
+    {
+        "name": "Zacua"
     }
 ]
