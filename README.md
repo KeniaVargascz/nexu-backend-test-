@@ -109,3 +109,36 @@ Please upload this repository to Github and submit to @remigioamc when complete.
 Deploy your application so we can test it against our frontend. Share the URL.
 
 
+## Running 
+pip install -r requirements.txt
+uvicorn server:app --reload
+
+## CURL
+GET /brands
+curl --location '{HOST}/api/brands'
+
+GET /brands/:id/models
+curl --location '{HOST}/api/brands/Toyota/models'
+
+POST /brands
+curl --location '{HOST}/api/brands' \
+--header 'Content-Type: application/json' \
+--data '{"brand_name": "Toyota1"}'
+
+POST /brands/:id/models
+curl --location '{HOST}/api/brands/Acura/models' \
+--header 'Content-Type: application/json' \
+--data '{"name": "Prius", "average_price": 406400}'
+
+PUT /models/:id
+curl --location --request PUT '{HOST}/api/models/1741' \
+--header 'Content-Type: application/json' \
+--data '{"average_price": 45365465456}
+'
+
+GET /models?greater=&lower=
+curl --location '{HOST}/api/models?greater=380000&lower=1'
+
+
+## Running test
+pytest app/test/
